@@ -1,9 +1,12 @@
 # After Class
 
-You wake up in an old library. The lights are flickering, and there is a strange locked door at the end of the room.
+You are still sitting in the classroom after class has ended.
 
+<<<<<<< HEAD
 What do you do next?You are still sitting in the classroom after class has ended.
 
+=======
+>>>>>>> 20a44e99826ad56a44954278882b2957b3805759
 A few hours ago, your team stayed behind to discuss the group project. After the discussion, everyone packed their bags, said goodbye, and went home. You told yourself you would only stay for a little longer to finish some work before leaving too.
 
 But one hour passes.
