@@ -27,3 +27,5 @@ You look back at the door.
 Your teammate is still standing there.
 
 What do you do next?
+
+- [Reply to the message](./option1.md)
