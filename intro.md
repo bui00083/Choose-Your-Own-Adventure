@@ -1,5 +1,5 @@
-# The Locked Door
+# The Lost Door
 
-You slowly turn the handle. The door creaks open, revealing a dark staircase leading underground looks like an endless black hole.
+You wake up in an old library. The lights are flickering, and there is a strange locked door at the end of the room.
 
 What do you do next?
