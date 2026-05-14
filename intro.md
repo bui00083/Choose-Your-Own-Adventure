@@ -28,4 +28,4 @@ What do you do next?
 
 - [Reply to the message](./option1.md)
 
-- [Check the message carefully](./option3.md)
+- [Inviting a Friend](./option3.md)
