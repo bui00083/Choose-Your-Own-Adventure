@@ -1,5 +1,4 @@
-##Inviting a Friend
-
+## Inviting a Friend
 
 You are still sitting in the classroom after everyone else has gone.
 
@@ -14,5 +13,3 @@ Before you can speak, your phone vibrates. A message from the same figure flashe
 “Hey, did you finish your part of the group project yet?”
 
 You glance back at the door. The figure hasn't moved.
-
-What do you do next?
