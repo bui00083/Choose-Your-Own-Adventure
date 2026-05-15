@@ -12,4 +12,4 @@ Before you can speak, your phone vibrates. A message from the same figure flashe
 
 “Hey, did you finish your part of the group project yet?”
 
-You glance back at the door. The figure hasn't moved.
+You glance back at the door. The figure hasn't moved. 
