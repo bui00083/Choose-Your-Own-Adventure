@@ -27,3 +27,4 @@ Your teammate is still standing there.
 What do you do next?
 
 - [Reply to the message](./option1.md)
+- [Walk to the door](./option2.md)
